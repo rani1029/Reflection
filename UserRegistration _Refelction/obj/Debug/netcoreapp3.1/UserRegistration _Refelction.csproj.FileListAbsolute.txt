@@ -1,0 +1,13 @@
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Reflection\UserRegistration _Refelction\bin\Debug\netcoreapp3.1\UserRegistration _Refelction.exe
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Reflection\UserRegistration _Refelction\bin\Debug\netcoreapp3.1\UserRegistration _Refelction.deps.json
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Reflection\UserRegistration _Refelction\bin\Debug\netcoreapp3.1\UserRegistration _Refelction.runtimeconfig.json
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Reflection\UserRegistration _Refelction\bin\Debug\netcoreapp3.1\UserRegistration _Refelction.runtimeconfig.dev.json
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Reflection\UserRegistration _Refelction\bin\Debug\netcoreapp3.1\UserRegistration _Refelction.dll
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Reflection\UserRegistration _Refelction\bin\Debug\netcoreapp3.1\UserRegistration _Refelction.pdb
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Reflection\UserRegistration _Refelction\obj\Debug\netcoreapp3.1\UserRegistration _Refelction.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Reflection\UserRegistration _Refelction\obj\Debug\netcoreapp3.1\UserRegistration _Refelction.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Reflection\UserRegistration _Refelction\obj\Debug\netcoreapp3.1\UserRegistration _Refelction.AssemblyInfo.cs
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Reflection\UserRegistration _Refelction\obj\Debug\netcoreapp3.1\UserRegistration _Refelction.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Reflection\UserRegistration _Refelction\obj\Debug\netcoreapp3.1\UserRegistration _Refelction.dll
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Reflection\UserRegistration _Refelction\obj\Debug\netcoreapp3.1\UserRegistration _Refelction.pdb
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Reflection\UserRegistration _Refelction\obj\Debug\netcoreapp3.1\UserRegistration _Refelction.genruntimeconfig.cache
